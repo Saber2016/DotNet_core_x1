@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{63ED96AC-1424-4236-A01D-8C4E9AA9EBCB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MysqlEntityFramework/TestModel.cs">
+    <Files>
+      <File FileName="MysqlEntityFramework/Program.cs" Line="12" Column="1" />
+      <File FileName="MysqlEntityFramework/test1/NewTable.cs" Line="1" Column="1" />
+      <File FileName="MysqlEntityFramework/test1/test_1Context.cs" Line="26" Column="49" />
+      <File FileName="MysqlEntityFramework/app.config" Line="8" Column="1" />
+      <File FileName="MysqlEntityFramework/TestModel.cs" Line="21" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MysqlEntityFramework" expanded="True">
+            <Node name="MysqlEntityFramework" expanded="True">
+              <Node name="test1" expanded="True" />
+              <Node name="TestModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MysqlEntityFramework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
