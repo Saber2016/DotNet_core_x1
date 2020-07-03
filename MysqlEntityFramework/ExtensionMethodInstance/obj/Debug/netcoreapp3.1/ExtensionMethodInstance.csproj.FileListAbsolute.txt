@@ -1,0 +1,12 @@
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/bin/Debug/netcoreapp3.1/ExtensionMethodInstance.deps.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/bin/Debug/netcoreapp3.1/ExtensionMethodInstance.runtimeconfig.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/bin/Debug/netcoreapp3.1/ExtensionMethodInstance.runtimeconfig.dev.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/bin/Debug/netcoreapp3.1/ExtensionMethodInstance.dll
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/bin/Debug/netcoreapp3.1/ExtensionMethodInstance.pdb
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/obj/Debug/netcoreapp3.1/ExtensionMethodInstance.csprojAssemblyReference.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/obj/Debug/netcoreapp3.1/ExtensionMethodInstance.AssemblyInfoInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/obj/Debug/netcoreapp3.1/ExtensionMethodInstance.AssemblyInfo.cs
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/obj/Debug/netcoreapp3.1/ExtensionMethodInstance.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/obj/Debug/netcoreapp3.1/ExtensionMethodInstance.dll
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/obj/Debug/netcoreapp3.1/ExtensionMethodInstance.pdb
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/ExtensionMethodInstance/obj/Debug/netcoreapp3.1/ExtensionMethodInstance.genruntimeconfig.cache

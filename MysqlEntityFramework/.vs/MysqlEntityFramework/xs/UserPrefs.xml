@@ -1,28 +1,50 @@
-﻿<Properties StartupConfiguration="{63ED96AC-1424-4236-A01D-8C4E9AA9EBCB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MysqlEntityFramework/TestModel.cs">
+﻿<Properties StartupConfiguration="{F032B81D-9FC2-4D9B-9A9C-13E510EED492}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVCSample01 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCSample01/Controllers/HomeController.cs">
     <Files>
-      <File FileName="MysqlEntityFramework/Program.cs" Line="12" Column="1" />
-      <File FileName="MysqlEntityFramework/test1/NewTable.cs" Line="1" Column="1" />
-      <File FileName="MysqlEntityFramework/test1/test_1Context.cs" Line="26" Column="49" />
-      <File FileName="MysqlEntityFramework/app.config" Line="8" Column="1" />
-      <File FileName="MysqlEntityFramework/TestModel.cs" Line="21" Column="58" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml" Line="1" Column="1" IsPinned="True" />
+      <File FileName="AwaitExampleTest/Program.cs" Line="16" Column="14" />
+      <File FileName="ConfigurationTest/Startup.cs" Line="1" Column="1" />
+      <File FileName="ConfigurationTest/Program.cs" Line="25" Column="6" />
+      <File FileName="MVCSample01/Startup.cs" Line="59" Column="13" />
+      <File FileName="MVCSample01/Program.cs" Line="27" Column="1" />
+      <File FileName="MVCSample01/Controllers/ContentController.cs" Line="1" Column="1" />
+      <File FileName="MVCSample01/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MVCSample01/Models/Content.cs" Line="1" Column="1" />
+      <File FileName="MVCSample01/Models/ContentViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MysqlEntityFramework" expanded="True">
-            <Node name="MysqlEntityFramework" expanded="True">
-              <Node name="test1" expanded="True" />
-              <Node name="TestModel.cs" selected="True" />
+            <Node name="AwaitExampleTest" expanded="True" />
+            <Node name="ConfigurationTest" expanded="True" />
+            <Node name="MVCSample01" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
             </Node>
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TastAndWait" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConfigurationTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.MysqlEntityFramework PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AwaitExampleTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExtensionMethodInstance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TastAndWait PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

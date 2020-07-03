@@ -1,0 +1,12 @@
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/bin/Debug/netcoreapp3.1/TastAndWait.deps.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/bin/Debug/netcoreapp3.1/TastAndWait.runtimeconfig.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/bin/Debug/netcoreapp3.1/TastAndWait.runtimeconfig.dev.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/bin/Debug/netcoreapp3.1/TastAndWait.dll
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/bin/Debug/netcoreapp3.1/TastAndWait.pdb
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/obj/Debug/netcoreapp3.1/TastAndWait.csprojAssemblyReference.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/obj/Debug/netcoreapp3.1/TastAndWait.AssemblyInfoInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/obj/Debug/netcoreapp3.1/TastAndWait.AssemblyInfo.cs
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/obj/Debug/netcoreapp3.1/TastAndWait.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/obj/Debug/netcoreapp3.1/TastAndWait.dll
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/obj/Debug/netcoreapp3.1/TastAndWait.pdb
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/TastAndWait/obj/Debug/netcoreapp3.1/TastAndWait.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/bin/Debug/netcoreapp3.1/AwaitExampleTest.deps.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/bin/Debug/netcoreapp3.1/AwaitExampleTest.runtimeconfig.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/bin/Debug/netcoreapp3.1/AwaitExampleTest.runtimeconfig.dev.json
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/bin/Debug/netcoreapp3.1/AwaitExampleTest.dll
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/bin/Debug/netcoreapp3.1/AwaitExampleTest.pdb
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/obj/Debug/netcoreapp3.1/AwaitExampleTest.csprojAssemblyReference.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/obj/Debug/netcoreapp3.1/AwaitExampleTest.AssemblyInfoInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/obj/Debug/netcoreapp3.1/AwaitExampleTest.AssemblyInfo.cs
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/obj/Debug/netcoreapp3.1/AwaitExampleTest.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/obj/Debug/netcoreapp3.1/AwaitExampleTest.dll
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/obj/Debug/netcoreapp3.1/AwaitExampleTest.pdb
+/Users/qinyuanlong/DotNet_core_x1/MysqlEntityFramework/AwaitExampleTest/obj/Debug/netcoreapp3.1/AwaitExampleTest.genruntimeconfig.cache

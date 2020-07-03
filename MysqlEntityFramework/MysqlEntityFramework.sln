@@ -3,6 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysqlEntityFramework", "MysqlEntityFramework\MysqlEntityFramework.csproj", "{63ED96AC-1424-4236-A01D-8C4E9AA9EBCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodInstance", "ExtensionMethodInstance\ExtensionMethodInstance.csproj", "{188A5636-4E49-4DDE-B9C5-B5F597E53731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationTest", "ConfigurationTest\ConfigurationTest.csproj", "{49A6E63E-2466-4DF1-808B-761621270523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TastAndWait", "TastAndWait\TastAndWait.csproj", "{F7CF4AD4-7526-4621-869E-7F7CA3A3AB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitExampleTest", "AwaitExampleTest\AwaitExampleTest.csproj", "{2B0C836E-4882-4E5B-BCF1-269EF8288151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{4E6DC6E4-C57E-4F1E-AC7A-812F7C8DD819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCSample01", "MVCSample01\MVCSample01.csproj", "{F032B81D-9FC2-4D9B-9A9C-13E510EED492}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +25,29 @@ Global
 		{63ED96AC-1424-4236-A01D-8C4E9AA9EBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63ED96AC-1424-4236-A01D-8C4E9AA9EBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63ED96AC-1424-4236-A01D-8C4E9AA9EBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188A5636-4E49-4DDE-B9C5-B5F597E53731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188A5636-4E49-4DDE-B9C5-B5F597E53731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188A5636-4E49-4DDE-B9C5-B5F597E53731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188A5636-4E49-4DDE-B9C5-B5F597E53731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A6E63E-2466-4DF1-808B-761621270523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A6E63E-2466-4DF1-808B-761621270523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A6E63E-2466-4DF1-808B-761621270523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A6E63E-2466-4DF1-808B-761621270523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CF4AD4-7526-4621-869E-7F7CA3A3AB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CF4AD4-7526-4621-869E-7F7CA3A3AB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CF4AD4-7526-4621-869E-7F7CA3A3AB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CF4AD4-7526-4621-869E-7F7CA3A3AB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0C836E-4882-4E5B-BCF1-269EF8288151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0C836E-4882-4E5B-BCF1-269EF8288151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0C836E-4882-4E5B-BCF1-269EF8288151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0C836E-4882-4E5B-BCF1-269EF8288151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6DC6E4-C57E-4F1E-AC7A-812F7C8DD819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6DC6E4-C57E-4F1E-AC7A-812F7C8DD819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6DC6E4-C57E-4F1E-AC7A-812F7C8DD819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6DC6E4-C57E-4F1E-AC7A-812F7C8DD819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F032B81D-9FC2-4D9B-9A9C-13E510EED492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F032B81D-9FC2-4D9B-9A9C-13E510EED492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F032B81D-9FC2-4D9B-9A9C-13E510EED492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F032B81D-9FC2-4D9B-9A9C-13E510EED492}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
