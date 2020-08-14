@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AVGNJ1ZH5eytE4Dcj5HjHclawQWowSPvjs4i4ZNak9Q0OvyzJrAzRKPoSwhI9nFC/9d4IAhG+VNylQwxNmIiCw==",
+  "success": true,
+  "projectFilePath": "/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/FileProviderTest/FileProviderTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.5/microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.5/microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.5/microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.fileproviders.embedded/3.1.5/microsoft.extensions.fileproviders.embedded.3.1.5.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.5/microsoft.extensions.fileproviders.physical.3.1.5.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.5/microsoft.extensions.filesystemglobbing.3.1.5.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.primitives/3.1.5/microsoft.extensions.primitives.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

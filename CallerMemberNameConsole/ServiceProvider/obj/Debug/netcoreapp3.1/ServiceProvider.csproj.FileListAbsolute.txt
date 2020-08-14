@@ -1,0 +1,15 @@
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/bin/Debug/netcoreapp3.1/ServiceProvider.deps.json
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/bin/Debug/netcoreapp3.1/ServiceProvider.runtimeconfig.json
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/bin/Debug/netcoreapp3.1/ServiceProvider.runtimeconfig.dev.json
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/bin/Debug/netcoreapp3.1/ServiceProvider.dll
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/bin/Debug/netcoreapp3.1/ServiceProvider.pdb
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/obj/Debug/netcoreapp3.1/ServiceProvider.csprojAssemblyReference.cache
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/obj/Debug/netcoreapp3.1/ServiceProvider.AssemblyInfoInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/obj/Debug/netcoreapp3.1/ServiceProvider.AssemblyInfo.cs
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/obj/Debug/netcoreapp3.1/ServiceProvider.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/obj/Debug/netcoreapp3.1/ServiceProvider.csproj.CopyComplete
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/obj/Debug/netcoreapp3.1/ServiceProvider.dll
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/obj/Debug/netcoreapp3.1/ServiceProvider.pdb
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/obj/Debug/netcoreapp3.1/ServiceProvider.genruntimeconfig.cache

@@ -1,38 +1,22 @@
 ﻿<Properties StartupConfiguration="{F032B81D-9FC2-4D9B-9A9C-13E510EED492}|Default">
   <MonoDevelop.Ide.ItemProperties.MVCSample01 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MVCSample01/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCSample01/Startup.cs">
     <Files>
       <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml" Line="1" Column="1" IsPinned="True" />
       <File FileName="AwaitExampleTest/Program.cs" Line="16" Column="14" />
       <File FileName="ConfigurationTest/Startup.cs" Line="1" Column="1" />
       <File FileName="ConfigurationTest/Program.cs" Line="25" Column="6" />
-      <File FileName="MVCSample01/Startup.cs" Line="59" Column="13" />
+      <File FileName="MVCSample01/Startup.cs" Line="52" Column="1" />
       <File FileName="MVCSample01/Program.cs" Line="27" Column="1" />
-      <File FileName="MVCSample01/Controllers/ContentController.cs" Line="1" Column="1" />
-      <File FileName="MVCSample01/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MVCSample01/Controllers/ContentController.cs" Line="26" Column="10" />
+      <File FileName="MVCSample01/Controllers/HomeController.cs" Line="9" Column="1" />
       <File FileName="MVCSample01/Models/Content.cs" Line="1" Column="1" />
       <File FileName="MVCSample01/Models/ContentViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MysqlEntityFramework" expanded="True">
-            <Node name="AwaitExampleTest" expanded="True" />
-            <Node name="ConfigurationTest" expanded="True" />
-            <Node name="MVCSample01" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
-              <Node name="Models" expanded="True" />
-            </Node>
-            <Node name="RazorPagesMovie" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Movies" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="TastAndWait" expanded="True" />
-          </Node>
+          <Node name="MysqlEntityFramework" expanded="True" />
         </State>
       </Pad>
     </Pads>

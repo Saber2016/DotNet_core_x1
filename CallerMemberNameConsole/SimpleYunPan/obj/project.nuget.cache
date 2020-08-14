@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2Z8vppSxy4C58wrovOYNqxlEBl2sgmlYFLJigDi2THhvVvmUI/iRdBaVqm/AEgXlHU+GrAn9jcvIaIyQRuz9w==",
+  "success": true,
+  "projectFilePath": "/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/SimpleYunPan/SimpleYunPan.csproj",
+  "expectedPackageFiles": [
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.6/microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.primitives/3.1.6/microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{A87C9772-BC2A-4AF5-96CA-E2AEA1C17C47}|Default">
+  <MonoDevelop.Ide.ItemProperties.FileProviderTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DIStudy FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestLinq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SimpleYunPan FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ServiceProvider PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestLinq/Program.cs">
+    <Files>
+      <File FileName="DIStudy/Program.cs" Line="81" Column="17" />
+      <File FileName="FileProviderTest/Program.cs" />
+      <File FileName="FileProviderTest/FileProviderTest.csproj" />
+      <File FileName="FileProviderTest/data" />
+      <File FileName="ServiceProvider/Program.cs" />
+      <File FileName="SimpleYunPan/Program.cs" />
+      <File FileName="SimpleYunPan/HttpDirectoryContentsDescriptor.cs" />
+      <File FileName="ConfigureStudy/Program.cs" />
+      <File FileName="TestLinq/Program.cs" Line="16" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CallerMemberNameConsole" expanded="True">
+            <Node name="TestLinq" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConfigureStudy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CallerMemberNameConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

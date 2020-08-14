@@ -1,0 +1,12 @@
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/bin/Debug/netcoreapp3.1/TestLinq.deps.json
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/bin/Debug/netcoreapp3.1/TestLinq.runtimeconfig.json
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/bin/Debug/netcoreapp3.1/TestLinq.runtimeconfig.dev.json
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/bin/Debug/netcoreapp3.1/TestLinq.dll
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/bin/Debug/netcoreapp3.1/TestLinq.pdb
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/obj/Debug/netcoreapp3.1/TestLinq.csprojAssemblyReference.cache
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/obj/Debug/netcoreapp3.1/TestLinq.AssemblyInfoInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/obj/Debug/netcoreapp3.1/TestLinq.AssemblyInfo.cs
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/obj/Debug/netcoreapp3.1/TestLinq.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/obj/Debug/netcoreapp3.1/TestLinq.dll
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/obj/Debug/netcoreapp3.1/TestLinq.pdb
+/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/TestLinq/obj/Debug/netcoreapp3.1/TestLinq.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qod6TjiuNcXaEoaA8IAwjQp3N5+IlQU0LJ9/RQlbT1fJlAqJPEOsr0qBhNp1pWhvMbk/3HDyK0GlzyxI2p4Klw==",
+  "success": true,
+  "projectFilePath": "/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ServiceProvider/ServiceProvider.csproj",
+  "expectedPackageFiles": [
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.5/microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.5/microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

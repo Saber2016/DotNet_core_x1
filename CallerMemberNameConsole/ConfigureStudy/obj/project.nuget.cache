@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ko3435GJbsBMrRMqbxfrW6No/UF7m2M1b4UUlr8jssvipgF6aNGllKXeHpgoNMrTqeDsi7AckThBuFCcgcf8Aw==",
+  "success": true,
+  "projectFilePath": "/Users/qinyuanlong/DotNet_core_x1/CallerMemberNameConsole/ConfigureStudy/ConfigureStudy.csproj",
+  "expectedPackageFiles": [
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.configuration/3.1.6/microsoft.extensions.configuration.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.6/microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.configuration.binder/3.1.6/microsoft.extensions.configuration.binder.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.6/microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.6/microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.options/3.1.6/microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.options.configurationextensions/3.1.6/microsoft.extensions.options.configurationextensions.3.1.6.nupkg.sha512",
+    "/Users/qinyuanlong/.nuget/packages/microsoft.extensions.primitives/3.1.6/microsoft.extensions.primitives.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
