@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iuQnzJYS9Uhu5PYQemoUmvD1HkJhOZQ5M5bAYsu/4ZfBKO+pyG+P8xjW3EptxUDKDmwi4vVWUUbenjtCw/8GuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\95644\\Documents\\DotNet_core_x1\\FileSystem01\\fileSystem01\\fileSystem01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\95644\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\95644\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\95644\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.5\\microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\95644\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.5\\microsoft.extensions.fileproviders.physical.3.1.5.nupkg.sha512",
+    "C:\\Users\\95644\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.5\\microsoft.extensions.filesystemglobbing.3.1.5.nupkg.sha512",
+    "C:\\Users\\95644\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
